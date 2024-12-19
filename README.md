@@ -4,6 +4,8 @@ Minimal Example Implementation of an Anthropic [MCP](https://modelcontextprotoco
 
 The goal of this repository is to provide a reference implementation of a **mcp client and server** that can be easily debugged in VSCode on Windows using the Python / Python Debugger extension.
 
+Alternative IDEs and OS are not tested but should work with minimal adjustments, too.
+
 ## Installation
 
 ```powershell
