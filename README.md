@@ -20,6 +20,6 @@ cp .env.sample .env
 # run mcp_client.py script
 python mcp_client.py
 
-# ask for current time
+# query for current time
 ```
 
