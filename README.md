@@ -1,8 +1,8 @@
 # python-pip-mcp
 
-Minimal Example Implementation of an Anthropic MCP Server and Client in Python and Pip. 
+Minimal Example Implementation of an Anthropic [MCP](https://modelcontextprotocol.io/introduction) Client and Server in Python with Pip. 
 
-The goal was to have easy accessable debug functionality in VSCode and Windows for the server and client in the same session.
+The goal of this repository is to provide a reference implementation of a **mcp client and server** that can be easily debugged in VSCode on Windows using the Python / Python Debugger extension.
 
 ## Installation
 
